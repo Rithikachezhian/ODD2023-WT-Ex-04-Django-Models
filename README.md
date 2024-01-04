@@ -1,7 +1,10 @@
 # Ex-04-Django-Models
 NAME:RITHIKA
+
 REFERENCE NUMBER:23013374
+
 Department:AIDS
+
 AIM:
 To create django model
 
